@@ -102,10 +102,10 @@ if __name__ == "__main__":
                         choices=["train", "test"])
 
     # Directories.
-    parser.add_argument("--data_image_dir", type=str, default="../data/train")
+    parser.add_argument("--data_image_dir", type=str, default="data/train")
 
     parser.add_argument("--data_test_image_dir",
-                        type=str, default="../data/test")
+                        type=str, default="data/test")
 
     config = parser.parse_args()
     main(config)
