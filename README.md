@@ -29,7 +29,7 @@ The code to make cipher text.
 - caeser.py: Caeser
 - substitution.py: Substitution
 - vigenere.py: Vigenere
-- cipher.py: Encryption Text code
+- cipher.py: Encryption Test code
 
 ### data
 
