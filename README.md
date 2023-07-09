@@ -33,7 +33,21 @@ The code to make cipher text.
 
 ### data
 
-Example of dataset.
+Only samples have been uploaded to test the code above.
+
+Structure
+
+- data
+  - train
+    - 0.plain
+    - 1.caeser
+    - 2.vigenere
+    - 3.substitution
+  - test
+    - 0.plain
+    - 1.caeser
+    - 2.vigenere
+    - 3.substitution
 
 ## Train
 
