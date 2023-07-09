@@ -4,6 +4,8 @@ Automated Classical Cipher Emulation Attacks via Unified Unsupervised Generative
 
 Torch implementation for learning a mapping between Plain text to Cipher Text
 
+<img src="img/img.PNG" width="900px"/>
+
 ## Setup
 
 ### Prerequisites
@@ -23,6 +25,11 @@ cd UC-GAN-Unified-cipher-generative-adversarial-network
 ### Lib
 
 The code to make cipher text.
+
+- caeser.py: Caeser
+- substitution.py: Substitution
+- vigenere.py: Vigenere
+- cipher.py: Encryption Text code
 
 ### data
 
